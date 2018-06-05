@@ -1,0 +1,90 @@
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\bin\Debug\LearnEnglish.exe.config
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\bin\Debug\LearnEnglish.exe
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\bin\Debug\LearnEnglish.pdb
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish.csprojResolveAssemblyReference.cache
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\App.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish_MarkupCompile.cache
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish_MarkupCompile.lref
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish.g.resources
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish.Properties.Resources.resources
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish.csproj.GenerateResource.Cache
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish.csproj.CoreCompileInputs.cache
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish.exe
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish.pdb
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\bin\Debug\RestSharp.dll
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\bin\Debug\YandexLinguistics.NET.dll
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\bin\Debug\RestSharp.xml
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\bin\Debug\Database.mdf
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\bin\Debug\Database_log.ldf
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish_Content.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\App.baml
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\Dictionary1.baml
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\DictionaryPage.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\MainPage.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\DictionaryPage.baml
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\MainPage.baml
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\MainForm.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\MainForm.baml
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\TranslateWordPage.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\TranslateWordPage.baml
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\TranslateWordPage2.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\TranslateWordPage2.baml
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\WordConstructorPage.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\WordConstructorPage.baml
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\TranslatorPage.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\TranslatorPage.baml
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\AuthorizationPage.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\RegistrationPage.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\AuthorizationPage.baml
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\RegistrationPage.baml
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\OfferConstructorPage.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\OfferConstructorPage.baml
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\bin\Debug\Database.mdf
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\bin\Debug\Database_log.ldf
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\bin\Debug\LearnEnglish.exe.config
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\bin\Debug\LearnEnglish.exe
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\bin\Debug\LearnEnglish.pdb
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\bin\Debug\RestSharp.dll
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\bin\Debug\YandexLinguistics.NET.dll
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\bin\Debug\RestSharp.xml
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish.csprojResolveAssemblyReference.cache
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\AuthorizationPage.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\DictionaryPage.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\MainForm.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\MainPage.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\OfferConstructorPage.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\RegistrationPage.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\TranslateWordPage.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\TranslateWordPage2.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\TranslatorPage.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\WordConstructorPage.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\App.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish_Content.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish_MarkupCompile.cache
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish_MarkupCompile.lref
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\App.baml
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\AuthorizationPage.baml
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\Dictionary1.baml
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\DictionaryPage.baml
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\MainForm.baml
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\MainPage.baml
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\OfferConstructorPage.baml
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\RegistrationPage.baml
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\TranslateWordPage.baml
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\TranslateWordPage2.baml
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\TranslatorPage.baml
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\WordConstructorPage.baml
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish.g.resources
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish.Properties.Resources.resources
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish.csproj.GenerateResource.Cache
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish.csproj.CoreCompileInputs.cache
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish.exe
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish.pdb
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\WordsToPriorityPage.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\WordsToPriorityPage.baml
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\OfferDictionaryPage.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\MVVM паттерн сука MVVM\LearnEnglish\LearnEnglish\obj\Debug\OfferDictionaryPage.baml
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\OfferDictionaryPage.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\WordsToPriorityPage.g.cs
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\OfferDictionaryPage.baml
+C:\Users\pawii\Desktop\Учеба\Курсач\LearnEnglish\LearnEnglish\obj\Debug\WordsToPriorityPage.baml

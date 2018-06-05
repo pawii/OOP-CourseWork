@@ -1,0 +1,44 @@
+﻿<Window x:Class="LearnEnglish.MainForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LearnEnglish"
+        mc:Ignorable="d"
+        Title="Learn English" Height="600" Width="700" MaxHeight="600" MaxWidth="700" MinHeight="600" MinWidth="700" Loaded="Window_Loaded">
+    <Grid Background="DarkOrange">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="30"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="30"/>
+        </Grid.ColumnDefinitions>
+        <ToolBar x:Name="toolBar" Grid.Column="0" Grid.ColumnSpan="9" Background="DarkOrange" Visibility="Hidden">
+            <TextBox x:Name="translateTB" SpellCheck.IsEnabled="True" FontSize="16" Width ="200" Background="White"/>
+            <Button Content="Поиск" Background="White" Margin="10,0,10,0" FontSize="16" Click="Button_Click"/>
+            <StackPanel Orientation="Vertical">
+                <Label x:Name="countWordsLabel" Content="Количество слов в словаре:" FontSize="10" Margin="10,0,10,0"/>
+                <Label x:Name="countOffersLabel" Content="Количество предложений в словаре: 22" FontSize="10" Margin="10,0,20,0"/>
+            </StackPanel>
+            <Menu Background="DarkOrange">
+                <MenuItem>
+                    <MenuItem.Icon>
+                        <Image Source="Resources/ава.png" Margin="35,0,0,0"/>
+                    </MenuItem.Icon>
+                    <MenuItem Header="Мой словарь слов" Click="MenuItem_Click"/>
+                    <MenuItem Header="Мой словарь предложений" Click="MenuItem_Click_2"/>
+                    <MenuItem Header="Выход" Click="MenuItem_Click_1"/>
+                </MenuItem>
+            </Menu>
+        </ToolBar>
+
+        <StackPanel Background="White" Grid.Row="1" Grid.Column="1">
+            <Image Source="Resources/MainBackground.jpg"  Stretch="None"/>
+        </StackPanel>
+        <Frame x:Name="Pages" Grid.Column="1" Grid.Row="1" NavigationUIVisibility="Hidden"/>
+    </Grid>
+</Window>
